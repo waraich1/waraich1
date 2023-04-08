@@ -8,7 +8,7 @@ Here on my GitHub, you'll find an assortment of projects that I've worked on dur
 
 ## :wrench: Skills & Technologies
 
-- **Languages**: Python, JavaScript, Java, Haskell, C, Bash, HTML/CSS
+- **Languages**: Python, JavaScript, Java, C, Bash, HTML/CSS
 - **Frameworks**: Node.js, React.js, Flask
 - **Tools**: Asana, Jira, Postman, Figma, Git
 
