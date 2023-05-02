@@ -2,6 +2,12 @@
 
 Hello! :wave: My name is Harkanwar (Harry) Waraich, and I'm a Computer Science graduate with a passion for software development. I have experience working with various programming languages and frameworks, including Python, JavaScript, Java, React.js, and Flask.
 
+<div><br>
+  <a href="https://github.com/AmandaWillrich">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waraich1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waraich1&layout=compact&langs_count=7&theme=github_dark&hide=qml,batchfile"/>
+</div>
+
 ## :globe_with_meridians: My Projects
 
 Here on my GitHub, you'll find an assortment of projects that I've worked on during my studies and internships. These projects showcase my skills in frontend and backend development, as well as my ability to learn new technologies and solve complex problems.
