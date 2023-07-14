@@ -42,7 +42,7 @@ Here on my GitHub, you'll find an assortment of projects that I've worked on dur
 
 ## :mailbox: Get in Touch
 
-I'm always open to collaborating on new projects, discussing ideas, or just connecting with like-minded individuals. Feel free to reach out to me via email at `waraich@mcmaster.ca`. I look forward to connecting with you!
+I'm always open to collaborating on new projects, discussing ideas, or just connecting with like-minded individuals. Feel free to reach out to me via email at `harrywar.cs@mcmaster.ca`. I look forward to connecting with you!
 
 ---
 
